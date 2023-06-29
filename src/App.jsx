@@ -19,7 +19,7 @@ export default function App() {
             </div>
           </div>
           <div className="logo">
-            <div id="circle" className="glass-effect"></div>
+            <div id="circle"></div>
             <img
               className="img"
               src="https://vitejs.dev/logo-with-shadow.png"
